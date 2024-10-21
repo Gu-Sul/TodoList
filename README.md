@@ -1,3 +1,5 @@
+![투두리스트](https://github.com/Gu-Sul/TodoList/blob/main/todolist.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
